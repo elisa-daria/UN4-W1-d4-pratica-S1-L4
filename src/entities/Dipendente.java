@@ -2,7 +2,7 @@ package entities;
 
 import java.util.Random;
 
-public class Dipendente {
+public abstract class Dipendente {
     //attributes
     private int matricola;
     private double stipendio;
